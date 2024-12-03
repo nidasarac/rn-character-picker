@@ -51,3 +51,6 @@ The `FlatList` component is used to render lists of characters and episodes effi
 
    ```bash
    git clone https://github.com/your-username/rn-character-picker.git
+
+![Proje Tanıtım Videosu](assets/Usage.mp4)
+
